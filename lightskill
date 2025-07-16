@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>LightSkill Academy – FLE Course</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background-color: #f8f9fa;
+      color: #212529;
+      line-height: 1.6;
+      margin: 0;
+      padding: 2em;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 2em;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.05);
+    }
+    h1, h2 {
+      text-align: center;
+      color: #374785;
+    }
+    hr {
+      border: none;
+      height: 2px;
+      background-color: #e0e0e0;
+      margin: 2em 0;
+    }
+    .section {
+      margin-bottom: 2em;
+    }
+    ul {
+      list-style-type: "✔ ";
+      padding-left: 1.5em;
+    }
+    .btn {
+      display: inline-block;
+      padding: 0.75em 1.5em;
+      background-color: #00897b;
+      color: #fff;
+      border: none;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+      text-align: center;
+      margin-top: 1em;
+    }
+    .badge {
+      background-color: #ffd700;
+      color: #000;
+      padding: 0.25em 0.75em;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>🏫 LIGHTSKILL ACADEMY</h1>
+  <p style="text-align:center;"><em>Empowering Souls, One Skill at a Time.</em></p>
+
+  <hr>
+
+  <h2>🇫🇷 LE FRANÇAIS LANGUE ÉTRANGÈRE</h2>
+  <p><strong>🎯 Speak the World in French</strong></p>
+  <p>An AI-powered course that takes you from zero to fluent — combining real-life immersion, smart tech, and soulful learning.</p>
+
+  <hr>
+
+  <div class="section">
+    <h3>📌 WHY THIS COURSE?</h3>
+    <p>French isn’t just a language. It’s a passport to over 30 countries, new cultures, and deeper connections. Whether you're starting fresh or preparing for official exams, this course meets you where you are and takes you where you want to go — with intelligence and elegance.</p>
+    <ul>
+      <li>From A1 beginner to B2 fluency</li>
+      <li>DELF/DALF preparation tools</li>
+      <li>Conversation-focused with AI speaking partner</li>
+      <li>Real cultural immersion through music, media & role-play</li>
+      <li>Self-paced, soul-paced learning</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h3>👤 WHO IS THIS FOR?</h3>
+    <ul>
+      <li>Total beginners</li>
+      <li>Intermediate learners (A2–B1)</li>
+      <li>Expats, students, travelers</li>
+      <li>Professionals & curious minds</li>
+      <li>Anyone preparing for FLE/DELF exams</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h3>📚 COURSE STRUCTURE</h3>
+    <p>This program includes <strong>7 modules</strong>, blending grammar, culture, and real-life fluency:</p>
+    <ol>
+      <li><strong>Bienvenue !</strong> – Getting started, sounds, greetings</li>
+      <li><strong>Moi et le Monde</strong> – Talking about yourself, daily life</li>
+      <li><strong>Temps et Espace</strong> – Navigating time & place</li>
+      <li><strong>Vivre au Quotidien</strong> – Real-life survival French</li>
+      <li><strong>Conversations Réelles</strong> – Dialogue labs & listening</li>
+      <li><strong>Lire et Écrire</strong> – Read & write like a native</li>
+      <li><strong>Réviser et Briller</strong> – Review + DELF-style mock exams</li>
+    </ol>
+  </div>
+
+  <div class="section">
+    <h3>🤖 AI-POWERED LEARNING TOOLS</h3>
+    <ul>
+      <li>🎙 “Clara” – your personal AI speaking partner</li>
+      <li>🧠 Grammar assistant & writing feedback</li>
+      <li>📣 Voice recognition for perfect pronunciation</li>
+      <li>📊 Smart dashboard to track fluency & progress</li>
+      <li>🎮 Gamified vocabulary builders</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h3>🎓 CERTIFICATE</h3>
+    <p>Get your <strong>LightSkill Fluency Certificate (A1–B2 aligned)</strong><br>
+    ✅ Add it to your CV, visa file, or personal portfolio</p>
+  </div>
+
+  <div class="section">
+    <h3>📲 STUDY ANYWHERE, ANYTIME</h3>
+    <ul>
+      <li>100% online, mobile-friendly</li>
+      <li>Offline MP3s, PDFs & printable worksheets</li>
+      <li>Learn at your own rhythm, 24/7 access</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h3>🎁 BONUS MODULES</h3>
+    <ul>
+      <li>🎧 <em>Culture Capsules</em></li>
+      <li>Parisian slang decoded</li>
+      <li>French café etiquette</li>
+      <li>Music, cinema, & everyday culture</li>
+      <li>How not to sound like a tourist</li>
+    </ul>
+  </div>
+
+  <div class="section" style="text-align:center;">
+    <h3>💥 ENROLL NOW</h3>
+    <p><span class="badge">🟢 Tuition:</span> [Insert price or FREE TRIAL CTA]</p>
+    <p>🟢 Start instantly<br>
+       🟢 No prior experience needed</p>
+    <a href="#" class="btn">👉 JOIN THE COURSE</a>
+    <p><em>💬 Questions? Contact us anytime.</em></p>
+  </div>
+
+  <hr>
+
+  <p style="text-align:center;">🌀 <strong>LIGHTSKILL ACADEMY</strong><br>
+  <em>Empowering Souls, One Skill at a Time.</em></p>
+</div>
+
+</body>
+</html>
